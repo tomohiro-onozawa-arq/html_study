@@ -17,6 +17,21 @@
     left: 20px;
 }
 
+.catch-copy, .page-title {
+    text-align: center;
+    width: 100%;
+    color: #fff;
+    font-family: "ヒラギノ明朝 Pron W3", "Hiragino Minchou ProN", "HG明朝E", "MS P明朝", "MS 明朝", serif;
+    font-size: 6vw;
+    font-weight: bold;
+
+}
+
+.catch-copy span, .page-title span{
+    border-bottom: 3px solid #fff;
+    padding-bottom: 4px;
+}
+
 .heading02{
     text-align: center;
     font-size: 16px;
